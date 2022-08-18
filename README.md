@@ -126,7 +126,7 @@ ___________________________________________
 
 🧠There is a phrase that has accompanied me in this passionate path of programming, and without a doubt, it is the right path:
 
-                            🗣"If you don't make mistakes, it's because you haven't tried anything." Jose Antonio Pascual. 
+    🗣"If you don't make mistakes, it's because you haven't tried anything." Jose Antonio Pascual. 
 
 👉Every moment of problems and mistakes are the beginning of new knowledge.
 ___________________________________________
